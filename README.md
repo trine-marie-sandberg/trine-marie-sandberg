@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m studying front end development at Noroff
-- I love 🍪🎨✏️📚🐕🐶👪 ++
+- Aside from tech I love 🍪🎨✏️📚🐕🐶👪 ++
 - 📫 How to reach me: trine.marie.sandberg@gmail.com
 
 I am a positive and creative girl that love to interact with computers and humans alike.
