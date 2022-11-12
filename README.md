@@ -1,6 +1,6 @@
 ### Hi, I’m Trine 👋
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on my JavaScript 2 lessons
 - 🌱 I’m studying front end development at Noroff
 - Aside from tech I love 🍪🎨✏️📚🐕🐶👪 ++
 - 📫 How to reach me: trine.marie.sandberg@gmail.com
