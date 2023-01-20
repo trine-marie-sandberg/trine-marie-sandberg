@@ -1,8 +1,8 @@
 ### Hi, I’m Trine 👋
 
-- 🔭 I’m currently working on my JavaScript 2 lessons
+- 🔭 I’m currently working on my workflow lessons
 - 🌱 I’m studying front end development at Noroff
-- Aside from tech I love 🍪🎨✏️📚🐕🐶👪 ++
+- Aside from tech I love my dogs, family, art and books 🍪🎨✏️📚🐕🐶👪 ++
 - 📫 How to reach me: trine.marie.sandberg@gmail.com
 
 I am a positive and creative girl that love to interact with computers and humans alike.
