@@ -1,7 +1,7 @@
 ### Hi, I’m Trine 👋
 
 - 🌱 I’m studying front end development at Noroff
-- 📚 currently learning Microsoft Power Apps
+- 📚 currently learning React
 - ❤️ Aside from tech I love my dogs, family, art and books 🎨✏️📚🐕🐶👪 ++
 - 📫 How to reach me: trine.marie.sandberg@gmail.com
 
