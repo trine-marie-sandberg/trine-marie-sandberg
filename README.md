@@ -7,4 +7,4 @@
 - 📫 How to reach me: trine.marie.sandberg@gmail.com
 
 I am a positive and creative girl that love to interact with computers and humans alike.
-My current goal is to become a front end developer, and my long term goal is to become a full stack developer.
+My current goal is to become a full stack developer, and my long term goal is to acquire skills to make annything I can think of.
