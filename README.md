@@ -1,6 +1,6 @@
 ### Hi, I’m Trine 👋
 
-- 🌷 I’m a junior developer, and a front end development graduate
+- 🌷 I’m a front end development graduate
 - 📁 Open for work
 - 🌱 currently learning Redux and Typescript
 - ❤️ Aside from tech I love my dogs, family, art and books 🎨✏️📚🐕🐶👪 ++
