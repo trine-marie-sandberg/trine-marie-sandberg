@@ -18,4 +18,5 @@ I am a positive and creative girl that love to interact with computers and human
 ![sass](https://github.com/trine-marie-sandberg/trine-marie-sandberg/assets/91562336/5299f013-a21f-4cea-a73b-62942c01f639)
 ![bootstrap](https://github.com/trine-marie-sandberg/trine-marie-sandberg/assets/91562336/155e9ada-d3ec-4688-9b3a-cac3ef3ad9cb)
 ![react](https://github.com/trine-marie-sandberg/trine-marie-sandberg/assets/91562336/69b20b33-b120-44ec-83f8-3c70130bd82d)
+![redux](https://github.com/trine-marie-sandberg/trine-marie-sandberg/assets/91562336/30ff72d9-8b42-481b-94a6-4f4484304a8e)
 
